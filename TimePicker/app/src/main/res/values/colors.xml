@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+
+
+
+
+    <!--My APP 常用颜色值-->
+    <color name="hint_color">#00000000</color>
+    <color name="half_alpha_color">#b0000000</color>
+    <color name="white_color">#FFFFFF</color>
+    <color name="black_color">#000000</color>
+    <color name="dark_black_color">#434343</color>
+    <color name="black_gray_color">#3b3b3b</color>
+    <color name="gray_white_color">#bde5d3</color>
+
+
+    <color name="time_picker_title_bar_color">#FFF37B7A</color>
+    <color name="shut_fragment_background">#fafafa</color>
+
+
+
+
+    <color name="red_color">#FF0000</color>
+    <color name="pink_color">#f36c60</color>
+    <color name="blue_color">#20a0fa</color>
+    <color name="orange_color">#FF7F00</color>
+    <color name="more_orange_color">#fc9632</color>
+    <color name="light_orange_color">#fffeda0c</color>
+    <color name="light_orange_color_trans">#66feda0c</color>
+    <color name="green_color">#ff25ccae</color>
+    <color name="dark_green_color">#32d094</color>
+    <color name="more_dark_green_color_mid_transparent">#5525bb83</color>
+    <color name="more_dark_green_color">#25bb83</color>
+    <color name="most_dark_green_color">#1ba155</color>
+    <color name="light_green_color">#57c938</color>
+    <color name="light_orange_color1">#ff992c</color>
+    <color name="gray_color">#C0C0C0</color>
+    <color name="dark_gray_color">#666666</color>
+    <color name="dark_gray_color_2">#ff464646</color>
+    <color name="light_gray_color">#c2c2c2</color>
+    <color name="middle_gray_color">#b9b9b9</color>
+    <color name="little_middle_gray_color">#9c9c9c</color>
+
+    <color name="light_red">#e2424a</color>
+    <color name="very_light_gray_color">#f2f2f2</color>
+    <color name="tab_gray_color">#f5f5f5</color>
+    <color name="bg_gray_color">#e6e6e6</color>
+    <color name="purple_color">#ff576c94</color>
+    <color name="little_black_color">#ff6b6b6b</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent_white_color">#00FFFFFF</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="dark_gray">#333333</color>
+    <color name="light_gray">#AFFFFFFF</color>
+    <color name="gray_trans">#33111111</color>
+
+
+    <color name="light_base_color">#50a165</color>
+    <color name="light_base_color_clicked">#ff468c50</color>
+
+
+    <color name="light_blue_color">#ff89c49a</color>
+    <color name="light_blue_color_clicked">#ff79b484</color>
+
+
+    <color name="light_green_color_trans">#32d094</color>
+    <color name="base_color">#50a165</color>
+    <color name="transparent_base_color">#73b483</color>
+    <color name="dark_base_color">#ff316a40</color>
+    <color name="most_black_tv_color">#444444</color>
+    <color name="middle_black_tv_color">#525252</color>
+    <color name="little_black_tv_color">#8e8e91</color>
+    <color name="hint_tv_color">#cdccd2</color>
+    <color name="dark_hint_tv_color">#969696</color>
+    <color name="gray_bg_color">#ecebf1</color>
+    <color name="gray_tv_color">#ecebf1</color>
+    <color name="red_tv_color">#e70118</color>
+
+
+    <!--引用的资源-->
+
+
+    <color name="colorControlNormal">#FF78909C</color>
+    <color name="colorControlActivated">#FF03A9F4</color>
+    <color name="colorSwitchThumbNormal">#FF78909C</color>
+
+    <color name="colorPrimaryQuarter">#3303A9F4</color>
+    <color name="colorPrimaryHalf">#9003A9F4</color>
+    <color name="colorControlNormalHalf">#9078909C</color>
+    <color name="colorControlActivatedHalf">#9003A9F4</color>
+    <color name="colorAccentQuarter">#3300E5FF</color>
+    <color name="colorAccentHalf">#9000E5FF</color>
+
+    <array name="progress_colors_light">
+        <item>#FF03A9F4</item>
+        <item>#FFD8433C</item>
+        <item>#FFF2AF3A</item>
+        <item>#FF279B5E</item>
+    </array>
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="background_window">#FFE5E5E5</color>
+
+    <array name="progress_colors_dark">
+        <item>#FF00E5FF</item>
+        <item>#ffd81d5a</item>
+        <item>#fff27512</item>
+        <item>#ff63bc34</item>
+    </array>
+
+    <array name="in_colors_light">
+        <item>#4B03A9F4</item>
+        <item>#3303A9F4</item>
+        <item>#1903A9F4</item>
+    </array>
+
+    <array name="in_colors_dark">
+        <item>#4B00E5FF</item>
+        <item>#3300E5FF</item>
+        <item>#1900E5FF</item>
+
+    </array>
+
+    <color name="tpi_checked">#FFFFFFFF</color>
+    <color name="tpi_unchecked">#99FFFFFF</color>
+
+    <color name="et_divider_focused">@color/colorControlActivated</color>
+    <color name="et_divider_not_focused">#FF6D6D6D</color>
+    <color name="et_divider_disable">#FFC1C1C1</color>
+
+
+    <color name="light_bg_color">#fafafa</color>
+
+
+
+
+    <!--分割线颜色值-->
+    <color name="bg_line">#c8c8c8</color>
+    <color name="bg_line_2">#c5c5c6</color>
+    <color name="bg_screen">#f5f5f6</color>
+    <color name="bg_screen_select">#ffeeeeef</color>
+    <color name="bg_gray_color_level_0">#ecebf1</color>
+    <color name="bg_gray_color_level_1">#ffdfdee4</color>
+
+    <!-- 捷世保 一般灰色提示文字的字体颜色-->
+    <color name="tv_gray_color_level_1">#cecdd3</color>
+    <color name="tv_gray_color_level_2">#cdcdd0</color>
+    <color name="tv_gray_color_level_3">#999999</color>
+    <color name="tv_gray_color_level_4">#878787</color>
+
+    <!-- 捷世保 正文的黑体文字的字体颜色-->
+    <color name="tv_black_color_level_0">#505050</color>
+    <color name="tv_black_color_level_1">#464646</color>
+    <color name="tv_black_color_level_2">#030303</color>
+
+
+
+    <!-- 日历 控件的颜色 集合-->
+    <color name="o">#ddeeee</color>
+    <color name="o1">#ffffdd</color>
+    <color name="gray">#d5d4d4</color>
+    <color name="blue">#0000ff</color>
+    <color name="calendar_color_green">#60c677</color>
+    <color name="calendar_color_orange">#fc6c00</color>
+    <color name="calendar_color_black">#666666</color>
+    <color name="calendar_color_gray">#cccccc</color>
+    <color name="calendar_color_month_title">#526276</color>
+    <color name="calendar_color_week">#339900</color>
+    <color name="calendar_color_today">#FF6600</color>
+    <color name="calendar_color_inDay">#33B5E5</color>
+
+</resources>
